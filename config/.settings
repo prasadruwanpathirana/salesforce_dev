@@ -1,0 +1,17 @@
+{
+    "projectName": "DEv_Prasad",
+    "username": "sales.force@outlook.com.dev",
+    "id": "5d64bf50-5502-11e9-87c0-97707cc976aa",
+    "namespace": "prasadRevenueS",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://prasad1-dev-ed.my.salesforce.com",
+    "workspace": "C:\\UKPGL_CRs\\SourceCode",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
